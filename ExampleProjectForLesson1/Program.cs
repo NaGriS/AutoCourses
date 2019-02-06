@@ -20,7 +20,6 @@ namespace ConsoleApp1
             Console.WriteLine("\r\nFUNCTION 1: EXPRESSION EVALUATION: {0}", result);
         }
 
-
         private static void DemonstrateOverflowExample()
         {
             Console.WriteLine("\r\nFUNCTION 2: UNCHECKED OVERFLOW EXAMPLE");
