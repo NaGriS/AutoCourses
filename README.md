@@ -1,2 +1,2 @@
 # AutoCourses
-Example projects for training courses
+MASTER BRANCH README 1
