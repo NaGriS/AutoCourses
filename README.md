@@ -1,2 +1,2 @@
 # AutoCourses
-MASTER BRANCH README 1
+Lesson 2 BRANCH README
